@@ -1,0 +1,1 @@
+Assets for [Hasper](https://github.com/dencold/hasper) are stored here. We have several image files that we use to aid in onboarding new users to the theme. We don't want to have those images as part of the repository as it's unnecessary to download them in order to use the theme.
