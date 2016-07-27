@@ -1,0 +1,1 @@
+These files are in place for use within the [SublimeEvernote](https://github.com/jamiesun/SublimeEvernote) package. I added a PR to improve the documentation on the README file to highlight steps for oauth verification.
